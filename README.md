@@ -5,16 +5,21 @@ Apple Configurator 2
 未加入私人危害权限
 
 #无线网
-ios 描述文件 主要是学校无线网对ios的不友好                            
+ios 描述文件 
+主要是学校无线网对ios的不友好   
+
 Auto_MDXY_ChinaNet.mobileconfig    
 自动连接电信，不自动连接其余两网  
 [安装](https://pan.baidu.com/s/1c251tV6)
+
 Auto_MDXY_Unicom.mobileconfig      
 自动连接联通，不自动连接其余两网  
 [安装](https://pan.baidu.com/s/1dFbDgxr)
+
 Auto_MDXY_Mobile.mobileconfig      
 自动连接移动，不自动连接其余两网  
 [安装](https://pan.baidu.com/s/1miFuzvM)
+
 UnAuto_MDXY.mobileconfig           
 手动连接三网，有较大几率掉网      
 [安装](https://pan.baidu.com/s/1jHPrBwi)
