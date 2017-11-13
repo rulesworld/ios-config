@@ -6,6 +6,7 @@ Apple Configurator 2
 未加入私人危害权限
 
 #无线网
+
 ios 描述文件 
 主要是学校无线网对ios的不友好   
 
@@ -34,6 +35,7 @@ UnAuto_MDXY.mobileconfig
 
 
 #系统
+
 Optimization.mobileconfig      
 [安装](https://pan.baidu.com/s/1kVSnHlH)
 
