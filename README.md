@@ -25,9 +25,10 @@ UnAuto_MDXY.mobileconfig
 手动连接三网，有较大几率掉网      
 [安装](https://pan.baidu.com/s/1jHPrBwi)
 
-均
-屏蔽自动登录界面
+以上
+均屏蔽自动登录界面
 （请浏览器保存登录网址书签）
+
 加入自动pac代理去广告
 无线网类型默认改为Legacy Hotspot
 
